@@ -1,0 +1,25 @@
+{
+  "name": "firsthapijs",
+  "version": "1.0.0",
+  "description": "First example using hapijs",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniyer007/hapijs.git"
+  },
+  "keywords": [
+    "hapijs"
+  ],
+  "author": "aniyer",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/aniyer007/hapijs/issues"
+  },
+  "homepage": "https://github.com/aniyer007/hapijs#readme",
+  "dependencies": {
+    "hapi": "^16.0.1"
+  }
+}
