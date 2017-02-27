@@ -1,2 +1,2 @@
 # hapijs
-First sample on hapijs
+Sample app using hapijs
